@@ -10,11 +10,12 @@ I present the: Event Industries Mod for Minecraft 1.12.2
 
 ![Event](https://user-images.githubusercontent.com/84048089/117895874-9c8e4800-b2bf-11eb-8a22-dfdca0f995d1.png)
 
-Planned features.
-- Colored redstone lamps
+Planned features
+- Stage lights
 - Pyrotechnic elements
-- stage lights
-- PA systems
+- PA and Speakers
+- Instruments and Amps
+- Traverse Systems
 and much more.
 
 I plan to work with some of some People i know from the Events Industrys to make this mod as extensive as possible.
