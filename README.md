@@ -1,5 +1,5 @@
 # Minecraft 1.12.2 - Event-Industries Mod
-A Mod in Tribute to the Flat lying Event Industries
+**A Mod in Tribute to the Flat lying Event Industries**
 
 Are you also an event visitor?
 I always Searched for a Mod that i can Make a Stage for a Event or Concert in Minecraft more appealing But unfortunately there weren't any!
