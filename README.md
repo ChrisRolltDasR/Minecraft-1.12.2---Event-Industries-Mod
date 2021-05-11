@@ -6,7 +6,7 @@ I always Searched for a Mod that i can Make a Stage for a Event or Concert in Mi
 so..
 The events industry has been standing still since the beginning of the pandemic. I've been looking forward for making Minecraft Mods a while ago!
 
-I present the: Event Industries Mod for Minecraft 1.12.2
+I present the: **Event Industries Mod** for Minecraft *1.12.2*
 
 ![Event](https://user-images.githubusercontent.com/84048089/117895874-9c8e4800-b2bf-11eb-8a22-dfdca0f995d1.png)
 
