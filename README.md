@@ -2,7 +2,7 @@
 A Mod in Tribute to the Flat lying Event Industries
 
 Are you also an event visitor?
-I always Searched for Making a Stage for a Event or Concert more appealing But unfortunately there weren't any!
+I always Searched for a Mod that i can Make a Stage for a Event or Concert in Minecraft more appealing But unfortunately there weren't any!
 so..
 The events industry has been standing still since the beginning of the pandemic. I've been looking for a long time to create mods for Minecraft which I can do with **MCreator** and Model with: **Blockbench**
 
