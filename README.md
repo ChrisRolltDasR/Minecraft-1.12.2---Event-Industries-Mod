@@ -8,7 +8,7 @@ The events industry has been standing still since the beginning of the pandemic.
 
 I present the: **Event Industries Mod** for Minecraft *1.12.2*
 
-![Event](https://user-images.githubusercontent.com/84048089/117895874-9c8e4800-b2bf-11eb-8a22-dfdca0f995d1.png)
+![image](https://user-images.githubusercontent.com/84048089/118009764-a4e19400-b34e-11eb-9b9e-2528262ef91a.png)
 
 **Planned features**
 - Stage lights
